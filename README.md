@@ -13,3 +13,5 @@ Página web del evento más esperado del año!!
 1. Clona este repositorio:
 
 `git clone https://github.com/mentorrolling/rollingconf_web17`
+
+Graciuas por confiar en mi!
