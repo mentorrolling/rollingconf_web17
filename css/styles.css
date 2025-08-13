@@ -1,10 +1,18 @@
 .carousel-item {
   height: 100vh;
+  position: relative;
   & img {
     height: 100%;
     object-fit: cover;
     object-position: right;
+    filter: grayscale(0.8);
   }
+}
+.overlay {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.531);
+  inset: 0;
+  z-index: 1;
 }
 
 #speakers .card img {
